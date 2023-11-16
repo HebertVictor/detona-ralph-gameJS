@@ -14,10 +14,18 @@
   height: 90px;
   background-color: #04044df8;
   color: #ffffff;
+  border-bottom: 5px solid #ffa500;
+}
+
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2) {
+  margin-top: 0.5rem;
 }
 
 .menu-lives {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu-lives img {
