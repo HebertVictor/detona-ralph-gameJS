@@ -25,6 +25,9 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
 
+### Minhas adições
+Aumento de dificuldade, acrescimo de tempo e perda/ganho de vidas.
+
 ### Créditos
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
